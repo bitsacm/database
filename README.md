@@ -17,26 +17,9 @@ This repository houses links to various sheets and other information pertaining 
 - Defrag - Lecture Series
 - Hackathon & Workshops
 
-## Resources for SIGs
+## Resources
 
-BITS ACM conducts SIGs (Special Interest Group Lecture Series). The resources for the same have been collected here.<br>
-BITS ACM maintains a repository of learning-based articles covering a wide variety of domains. These articles serve as the starting point for the domain.
-[Feel free to refer](https://github.com/bitsacm/learning-articles)
-
-### Game Development SIG ([Google Group](https://groups.google.com/forum/#!forum/bitsacm-game-development-sig))
-
-- Tutorials
-
-  1. [Official Unity Tutorials](https://unity3d.com/learn)
-  2. [YouTube channel Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
-  3. [YouTube channel tutor4u (for Blender Beginners)](https://www.youtube.com/channel/UCJspWFXSL1guQPdFqh4lFjQ)
-
-- 3D Models
-
-  1. [Unity asset store](https://assetstore.unity.com/)
-  2. [Blendswap](http://www.blendswap.com/)
-  3. [Turbosquid](https://www.turbosquid.com/)
-  4. [Sketchfab](https://sketchfab.com/)
+See [Resources.md](https://github.com/bitsacm/database/blob/master/Resources.md)
 
 ## Media
 
