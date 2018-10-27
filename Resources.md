@@ -22,10 +22,29 @@ BITS ACM maintains a repository of learning-based articles covering a wide varie
 ### Front-End Development SIG
 
 - In-SIG 
-  1. Example Code Repostory](https://github.com/ujjwalgandhi/frontend_sig)
+
+  1. [Example Code Repostory](https://github.com/ujjwalgandhi/frontend_sig)
 
 
 ### Back-End Development SIG
 
 - In-SIG
+
   1. [Slides](https://docs.google.com/presentation/d/1RSt1bWkoByKWTV3Opqs7gGlQKew6-WL5INRvUacMmG4/edit?usp=sharing)
+
+- General Reading Material
+  
+  1. [Beginners Guide to Backend Development](https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/)
+  2. [Mozilla MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
+  2. [Introduction to APIs, by Zapier](https://zapier.com/learn/apis/)
+
+- Python
+
+  1. Learn Python the Hard Way for Python 3 (Book)
+  2. Automating the Boring Stuff with Python (Book)
+
+- Django
+  
+  1. [Official Django Documentation](https://docs.djangoproject.com/en/2.1/)
+  2. [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+  3. Tango with Django (Book)
