@@ -4,7 +4,7 @@ BITS ACM conducts SIGs (Special Interest Group Lecture Series). The resources fo
 BITS ACM maintains a repository of learning-based articles covering a wide variety of domains. These articles serve as the starting point for the domain.
 [Feel free to refer](https://github.com/bitsacm/learning-articles)
 
-### Game Development SIG
+## Game Development SIG
 
 - Tutorials
 
@@ -18,6 +18,10 @@ BITS ACM maintains a repository of learning-based articles covering a wide varie
   2. [Blendswap](http://www.blendswap.com/)
   3. [Turbosquid](https://www.turbosquid.com/)
   4. [Sketchfab](https://sketchfab.com/)
+
+## Web Development
+
+Task for the SIGs have been announced. [Start Coding!](https://github.com/siddhantkhandelwal/dev-sig-task)
 
 ### Front-End Development SIG
 
